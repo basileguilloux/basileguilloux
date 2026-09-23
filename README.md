@@ -1,6 +1,6 @@
 ## Basile Guilloux
 
-Student in the Data, Society & Organisations track of the HEC Paris x Bocconi double degree combining political science, management and quantitative methods.
+Student in the Data, Society & Organisations track of the HEC Paris x Bocconi double degree combining economics, management and quantitative methods.
 
 **Currently**
 - Building ML systems such as models, agents and applied prediction pipelines
